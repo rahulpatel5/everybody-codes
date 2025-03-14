@@ -2,7 +2,6 @@
 #define Q1P2_H
 
 #include <string_view>
-#include <array>
 #include <cassert>
 
 namespace q1p2
