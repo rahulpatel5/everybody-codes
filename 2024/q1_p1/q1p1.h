@@ -2,9 +2,6 @@
 #define Q1P1_H
 
 #include <string_view>
-#include <array>
-#include <string>
-#include <tuple>
 
 namespace q1p1
 {
